@@ -16,9 +16,9 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Test
+            Test Local
           </a>
-        </header>
+        </header>        
       </div>
     );
   }
