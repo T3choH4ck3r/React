@@ -16,7 +16,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Google
+            Test
           </a>
         </header>
       </div>
