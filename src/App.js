@@ -18,7 +18,8 @@ class App extends Component {
           >
             Test Local
           </a>
-        </header>        
+        </header>
+        <span>Pushed Sucessfully </span>
       </div>
     );
   }
